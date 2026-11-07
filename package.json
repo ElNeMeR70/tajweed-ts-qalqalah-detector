@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-qalqalah-detector",
+  "version": "1.0.0",
+  "description": "Qalqalah Plosive Acoustic Bounce Detector (Qutb Jad) (كاشف حروف القلقلة الصغرى والكبرى وأحكام قطب جد)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
